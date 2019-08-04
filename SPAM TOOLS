@@ -1,0 +1,20 @@
+This Script is Only For Educational Purposes or To Prank.
+
+Usage
+Run These Commands To Run TBomb SMS.
+
+For Termux
+To USE the Script Type The Following Commands in Termux.
+
+Code:
+apt install git
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb
+chmod +x TBomb.sh
+./TBomb.sh
+
+If this working? Don't forget for support me, by donating to this BTC ADDRESS: 1KE5iZVrhUBKRc8yiPtxJrh3VMxLe8tbBA 
+
+Your donation, will help me a lot!
+And, i'll keep update for more tools in future!
+Thanks!
